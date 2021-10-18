@@ -6,5 +6,6 @@ To install, simply clone this project and
 
 1. `npm install`
 2. `npm start`
+3. `./node_modules/.bin/cypress run --browser chrome --headed --spec "cypress\integration\RegisterUserTest.js"`
 
 What you can see here is pretty much still work in progress and far from done.
